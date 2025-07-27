@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "Container Allocator Configuration"
+  },
+  "configuration": {
+    "materials": [
+      "Titanium",
+      "Aluminum",
+      "Carbon",
+      "Quartz"
+    ],
+    "sizes": [
+      1,
+      2,
+      4
+    ],
+    "locations": [
+      "Sakura Sun",
+      "NB Int",
+      "Greycat Stanton"
+    ]
+  },
+  "requirements": {
+    "Sakura Sun|Titanium": 0,
+    "Sakura Sun|Aluminum": 0,
+    "Sakura Sun|Carbon": 0,
+    "Sakura Sun|Quartz": 0,
+    "NB Int|Titanium": 0,
+    "NB Int|Aluminum": 0,
+    "NB Int|Carbon": 0,
+    "NB Int|Quartz": 0,
+    "Greycat Stanton|Titanium": 0,
+    "Greycat Stanton|Aluminum": 0,
+    "Greycat Stanton|Carbon": 0,
+    "Greycat Stanton|Quartz": 0
+  },
+  "availability": {
+    "Titanium|1": 0,
+    "Titanium|2": 0,
+    "Titanium|4": 0,
+    "Aluminum|1": 0,
+    "Aluminum|2": 0,
+    "Aluminum|4": 0,
+    "Carbon|1": 0,
+    "Carbon|2": 0,
+    "Carbon|4": 0,
+    "Quartz|1": 0,
+    "Quartz|2": 0,
+    "Quartz|4": 0
+  }
+}
