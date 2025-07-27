@@ -42,6 +42,13 @@ debug_*.py
 test_*.py
 *.log
 
-# Keep deployment folder but ignore temp files
+# Executables (upload via GitHub Releases instead)
+*.exe
+deployment/*.exe
+dist/*.exe
+
+# Keep deployment folder but ignore executables
 deployment/*.log
 deployment/*.tmp
+"deployment/*.exe" 
+docs/GITHUB_SETUP.md
